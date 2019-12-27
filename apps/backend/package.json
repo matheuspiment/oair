@@ -1,0 +1,7 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matheus Ribeiro Pimenta Nunes <matheuspiment@hotmail.com>",
+  "license": "MIT"
+}
